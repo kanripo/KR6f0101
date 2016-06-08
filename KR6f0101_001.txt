@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:46.247738
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 無量壽經優婆提舍願生偈註
 #+PROPERTY: CBETA_ID T40n1819
 #+PROPERTY: ID KR6f0101
