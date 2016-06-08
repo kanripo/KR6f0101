@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:46.247738
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:27
 #+TITLE: 無量壽經優婆提舍願生偈註
 #+PROPERTY: CBETA_ID T40n1819
 #+PROPERTY: ID KR6f0101
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 40, No. 1819
 #+PROPERTY: VOL 40
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0101_T_000-0826a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0101_T_001-0826a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1819[cf.N0.1524]¶
-
- 無量壽經優婆提舍願生偈¶
+No. 1819 [cf. N0. 1524]¶
+無量壽經優婆提舍願生偈¶
 婆藪槃頭菩薩造(并)註卷上¶
 ¶
 沙門曇鸞註解¶
@@ -475,7 +474,7 @@ No.1819[cf.N0.1524]¶
 猛譏言聲聞。如人諂曲或復儜弱譏言女¶
 人。又如眼雖明而不識事譏言盲人。又如¶
 耳雖聽而聽義不解譏言聾人。又如舌雖¶
-語而訥口𠽱吃譏言瘂人。有如是等根¶
+語而訥口𠽱譏言瘂人。有如是等根¶
 雖具足而有譏嫌之名。是故須言乃至無¶
 名。明淨土無如是等與奪之名。問曰。尋¶
 法藏菩薩本願及龍樹菩薩所讚。皆似以¶
